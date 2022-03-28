@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import lxml
 
 url = "https://www.bestchange.ru/ethereum-to-tinkoff.html"
 
